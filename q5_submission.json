@@ -1,0 +1,7 @@
+{
+  "prompt": "A visualization of global plastic pollution in oceans. Thousands of tiny plastic fragments forming the shape of a whale underwater, the whale's body dissolving into microplastic particles at the edges. Deep blue ocean background, particles glowing faintly. No text, no labels, no axes, no charts. Single frame, photorealistic, cinematic lighting, 4K.",
+  "model": "Ideogram 2",
+  "dataset_name": "Global Plastic Pollution Data - Our World in Data",
+  "dataset_url": "https://ourworldindata.org/plastic-pollution",
+  "insight": "Millions of tonnes of plastic enter oceans annually, fragmenting into microplastics that now permeate every level of marine life."
+}
