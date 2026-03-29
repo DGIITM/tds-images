@@ -1,0 +1,6 @@
+{
+  "prompt": "A mountain climber descending a foggy valley, following the steepest slope downward through thick clouds, each step leaving a glowing trail showing the path taken. The climber is small against vast mountainous terrain, always moving toward the lowest visible point. Golden hour lighting, photorealistic, cinematic, no text, no labels, no equations, single frame.",
+  "model": "Ideogram 2",
+  "concept": "gradient descent",
+  "metaphor": "A climber always stepping in the steepest downhill direction mirrors how gradient descent iteratively follows the negative gradient to find a loss minimum."
+}
